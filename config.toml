@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "UVA Biocomplexity Institute"
+title = "VT DSPG 2020 Chen 2"
 description = "A website for University of Virginia's 2020 Data Science for the Public Good Program."
 theme = "min_night"
 disqusShortname = ""
@@ -13,7 +13,7 @@ publishDir = "docs"
 
 [params]
     author = "VT DSPG"
-    description = "2020 DSPG Project Name"
+    description = "2020 VT DSPG Project Name"
     logo = "favicon/uva-dspg-logo.jpg"
     githubUsername = "uva-bi-sdad"
     accent = "#232D4B" # dark colors do best
