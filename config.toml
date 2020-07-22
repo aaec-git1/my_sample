@@ -12,7 +12,7 @@ publishDir = "docs"
     post = "/:year/:month/:day/:slug/"
 
 [params]
-    author = "UVA Biocomplexity Institute"
+    author = "VT DSPG"
     description = "2020 DSPG Project Name"
     logo = "favicon/uva-dspg-logo.jpg"
     githubUsername = "uva-bi-sdad"
